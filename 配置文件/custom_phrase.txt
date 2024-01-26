@@ -10,3 +10,5 @@ HarmonyOS	hm	2
 T恤	txu
 U盤	upan
 up主	upzhu
+「	zkh
+」	ykh
